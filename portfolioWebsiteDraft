@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sev-gallery</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="CSS/style.css">
+  <!-- <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"> -->
+</head>
+
+<body>
+  <table width="device-width" border="0">
+    <tr>
+      <td colspan="5" style="height:100px;background-color:255;text-align:center;">
+        <h1>SEV</h1>
+      </td>
+    </tr>
+
+    <tr style="vertical-align:center;text-align: center "">
+      <td style="height:5px;width:width/4;">
+
+        <a href="file:///Users/qijian/Desktop/Bootcamp/Bootcamp%20Web/For%20Web/Day02/Day02homework%20/html/index3-2%20Browse%20.html" style="font-family: 'Quicksand', sans-serif;">
+        ABOUT
+        </a>
+      </td>
+      <td style="height:5px;width:width/4;">
+<a href="file:///Users/qijian/Desktop/Bootcamp/Bootcamp%20Web/For%20Web/Day02/Day02homework%20/html/index3-3%20Project.html" style="font-family: 'Quicksand', sans-serif;">PROJECT</a></td>
+<td style="height:5px;width:width/4;">
+<a href="file:///Users/qijian/Desktop/Bootcamp/Bootcamp%20Web/For%20Web/Day02/Day02homework%20/html/index3-1%20Gallery.html" style="font-family: 'Quicksand', sans-serif;">GALLERY</a>
+      </td>
+      </td>
+<td style="height:5px;width:width/4;">
+<a href="file:///Users/qijian/Desktop/Bootcamp/Bootcamp%20Web/For%20Web/Day02/Day02homework%20/html/index-3-4%20Contact.html" style="font-family: 'Quicksand', sans-serif;">CONTACT</a></td>
+    <tr>
+<td colspan="5" style="background-color:grey;height:1px;text-align:center;">
+</td>
+</tr>
+
+<tr>
+<td colspan="5" style="background-color:grey;text-align:center;height:220px;width:1024px;">
+ <img src="image/deltaexterior.jpg">
+</td>
+</tr>
+
+  </table>
+
+  <h1>Brief</h1>
+
+  <div style="color: gray">
+
+    
+
+    <p>I came up with the idea of an egyptian museum souvenir store this sommer holiday whenI went Egypt with my roommate. We had fun there. But what confused and disappointed me is that as the third large museum around the world, the Egyptian Museum even doesn’t have a decent souvenir store. </p>
+
+
+  </div>
+
+<!--   <ul>
+  	<li>Item1</li>
+  	<li>Item2</li>
+  	<li>Item3</li>
+  </ul> -->
+
+  <!-- This my list -->
+
+
+  <img src="image/71479885798_.pic_hd.jpg">
+  <img src="image/WechatIMG9.jpeg">
+  <img src="image/WechatIMG10.jpeg">
+  
+  <button>Fake</button>
+  <button> 
+    <a href="file:///Users/qijian/Desktop/Bootcamp/Bootcamp%20Web/For%20Web/Day02/Day02homework%20/html/index.html">My browser</a>
+  </button>
+
+</body>
+</html>
